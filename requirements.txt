@@ -1,4 +1,4 @@
-Flask
-requests
-fuzzywuzzy
-python-Levenshtein  # Required for fuzzy matching performance optimization
+flask
+redis
+difflib
+gunicorn
